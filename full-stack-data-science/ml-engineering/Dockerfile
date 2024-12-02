@@ -10,8 +10,12 @@ COPY ./requirements.txt /code/requirements.txt
 # install python libraries
 RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
 
+# append project and data directories to PYTHONPATH
+# ENV PYTHONPATH=/code/app/
+
 # add python code
 COPY ./app/ /code/app/
 
 # specify default commands
-CMD ["fastapi", "run", "app/main.py", "--port", "80"]
+# CMD ["fastapi", "run", "app/main.py", "--port", "80"]
+CMD ["fastapi", "run", "app/main.py", "--host", "0.0.0.0", "--port", "80"]
