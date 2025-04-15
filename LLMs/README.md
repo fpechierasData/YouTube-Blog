@@ -2,7 +2,7 @@
 
 The goal of this series is to provide an accessible and practical introduction to large language models (LLMs). Each topic is accompanied by a YouTube video and Medium blog post. For those with code examples, the notebooks are freely available in this repo.
 
-If you have questions or suggestions for additional topics, reach out here: https://www.shawhintalebi.com/contact
+If you have questions or suggestions for additional topics, [submit an issue](https://github.com/ShawhinT/YouTube-Blog/issues)!
 
 Topics:
 - **Introduction**: [Video](https://youtu.be/tFHeUSJAYbE?si=hBFH1g7OAAeORf32) | [Blog](https://towardsdatascience.com/a-practical-introduction-to-llms-65194dda1148)
@@ -19,8 +19,11 @@ Topics:
 - QLoRA (on Mac): [Video](https://youtu.be/3PIqhdRzhxE) | [Blog](https://towardsdatascience.com/local-llm-fine-tuning-on-mac-m1-16gb-f59f4f598be7) | [Code](https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs/qlora-mlx)
 - Model Compression: [Video](https://youtu.be/FLkUOkeMd5M) | [Blog](https://towardsdatascience.com/compressing-large-language-models-llms-9f406eea5b5e) | [Code](https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs/model-compression)
 - Fine-tuning BERT: [Video](https://youtu.be/4QHg8Ix8WWQ) | [Blog](https://medium.com/towards-data-science/fine-tuning-bert-for-text-classification-a01f89b179fc) | [Code](https://github.com/ShawhinT/YouTube-Blog/blob/main/LLMs/model-compression/0_train-teacher.ipynb)
+- Fine-tuning Text Embeddings: [Video](https://youtu.be/hOLBrIjRAj4) | [Blog](https://shawhin.medium.com/fine-tuning-text-embeddings-f913b882b11c) | [Code](https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs/fine-tuning-embeddings)
+- Fine-tuning on Human Feedback: [Video](https://youtu.be/bbVoDXoPrPM) | [Blog](https://shawhin.medium.com/fine-tuning-llms-on-human-feedback-rlhf-dpo-1c693dbc4cbf) | [Code](https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs/dpo)
+- Evaluating LLMs: [Video](https://youtu.be/-sL7QzDFW-4) | [Blog](https://shawhin.medium.com/how-to-evaluate-and-improve-your-llm-apps-f7b08fb7493c) | [Code](https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs/evals)
 
 ### Supplemental Materials
 
-🎥 YouTube Playlist: https://www.youtube.com/playlist?list=PLz-ep5RbHosWmAt-AMK0MBgh3GeSvbCmL <br>
-📰 Medium Reading List: https://shawhin.medium.com/list/full-stack-data-science-f0910c75d006
+🎥 [YouTube Playlist](https://www.youtube.com/playlist?list=PLz-ep5RbHosWmAt-AMK0MBgh3GeSvbCmL) <br>
+📰 [Medium Reading List](https://shawhin.medium.com/list/full-stack-data-science-f0910c75d006)
